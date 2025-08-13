@@ -46,21 +46,26 @@ My testing covered:
 <details>
   <summary>Click to expand screenshots</summary>
 
-  ![Screenshot 1](screenshorts/Screenshot_1.png)
-  ![Screenshot 2](screenshorts/Screenshot_2.png)
- ![Screenshot 3](screenshorts/Screenshot_3.png)
- ![Screenshot 4](screenshorts/Screenshot_4.png)
- ![Screenshot 5](screenshorts/Screenshot_5.png)
- ![Screenshot 6](screenshorts/Screenshot_6.png)
- ![Screenshot 7](screenshorts/Screenshot_7.png)
- ![Screenshot 8](screenshorts/Screenshot_8.png)
- ![Screenshot 9](screenshorts/Screenshot_9.png)
- ![Screenshot 10](screenshorts/Screenshot_10.png)
- ![Screenshot 11](screenshorts/Screenshot_11.png)
- ![Screenshot 12](screenshorts/Screenshot_12.png)
- ![Screenshot 13](screenshorts/Screenshot_13.png)
+  <div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc; padding: 5px;">
+    <p style="font-size: 0.9em; color: gray;">⬅️ Scroll horizontally to view all screenshots ➡️</p>
+
+    <img src="screenshorts/Screenshot_1.png" alt="Screenshot 1" width="250">
+    <img src="screenshorts/Screenshot_2.png" alt="Screenshot 2" width="250">
+    <img src="screenshorts/Screenshot_3.png" alt="Screenshot 3" width="250">
+    <img src="screenshorts/Screenshot_4.png" alt="Screenshot 4" width="250">
+    <img src="screenshorts/Screenshot_5.png" alt="Screenshot 5" width="250">
+    <img src="screenshorts/Screenshot_6.png" alt="Screenshot 6" width="250">
+    <img src="screenshorts/Screenshot_7.png" alt="Screenshot 7" width="250">
+    <img src="screenshorts/Screenshot_8.png" alt="Screenshot 8" width="250">
+    <img src="screenshorts/Screenshot_9.png" alt="Screenshot 9" width="250">
+    <img src="screenshorts/Screenshot_10.png" alt="Screenshot 10" width="250">
+    <img src="screenshorts/Screenshot_11.png" alt="Screenshot 11" width="250">
+    <img src="screenshorts/Screenshot_12.png" alt="Screenshot 12" width="250">
+    <img src="screenshorts/Screenshot_13.png" alt="Screenshot 13" width="250">
+  </div>
 
 </details>
+
 
 ---
 

@@ -46,9 +46,19 @@ My testing covered:
 <details>
   <summary>Click to expand screenshots</summary>
 
-  ![Screenshot 1](screenshots/screenshot1.png)
-  ![Screenshot 2](screenshots/screenshot2.png)
-  ![Screenshot 3](screenshots/screenshot3.png)
+  ![Screenshot 1](screenshorts/Screenshot_1.png)
+  ![Screenshot 2](screenshorts/Screenshot_2.png)
+ ![Screenshot 3](screenshorts/Screenshot_3.png)
+ ![Screenshot 4](screenshorts/Screenshot_4.png)
+ ![Screenshot 5](screenshorts/Screenshot_5.png)
+ ![Screenshot 6](screenshorts/Screenshot_6.png)
+ ![Screenshot 7](screenshorts/Screenshot_7.png)
+ ![Screenshot 8](screenshorts/Screenshot_8.png)
+ ![Screenshot 9](screenshorts/Screenshot_9.png)
+ ![Screenshot 10](screenshorts/Screenshot_10.png)
+ ![Screenshot 11](screenshorts/Screenshot_11.png)
+ ![Screenshot 12](screenshorts/Screenshot_12.png)
+ ![Screenshot 13](screenshorts/Screenshot_13.png)
 
 </details>
 

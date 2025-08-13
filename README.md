@@ -49,19 +49,19 @@ My testing covered:
   <div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc; padding: 5px;">
     <p style="font-size: 0.9em; color: gray;">⬅️ Scroll horizontally to view all screenshots ➡️</p>
 
-    <img src="screenshorts/Screenshot_1.png" alt="Screenshot 1" width="250">
-    <img src="screenshorts/Screenshot_2.png" alt="Screenshot 2" width="250">
-    <img src="screenshorts/Screenshot_3.png" alt="Screenshot 3" width="250">
-    <img src="screenshorts/Screenshot_4.png" alt="Screenshot 4" width="250">
-    <img src="screenshorts/Screenshot_5.png" alt="Screenshot 5" width="250">
-    <img src="screenshorts/Screenshot_6.png" alt="Screenshot 6" width="250">
-    <img src="screenshorts/Screenshot_7.png" alt="Screenshot 7" width="250">
-    <img src="screenshorts/Screenshot_8.png" alt="Screenshot 8" width="250">
-    <img src="screenshorts/Screenshot_9.png" alt="Screenshot 9" width="250">
-    <img src="screenshorts/Screenshot_10.png" alt="Screenshot 10" width="250">
-    <img src="screenshorts/Screenshot_11.png" alt="Screenshot 11" width="250">
-    <img src="screenshorts/Screenshot_12.png" alt="Screenshot 12" width="250">
-    <img src="screenshorts/Screenshot_13.png" alt="Screenshot 13" width="250">
+    <img src="screenshorts/Screenshot_1.png" alt="Screenshot_1" width="250">
+    <img src="screenshorts/Screenshot_2.png" alt="Screenshot_2" width="250">
+    <img src="screenshorts/Screenshot_3.png" alt="Screenshot_3" width="250">
+    <img src="screenshorts/Screenshot_4.png" alt="Screenshot_4" width="250">
+    <img src="screenshorts/Screenshot_5.png" alt="Screenshot_5" width="250">
+    <img src="screenshorts/Screenshot_6.png" alt="Screenshot_6" width="250">
+    <img src="screenshorts/Screenshot_7.png" alt="Screenshot_7" width="250">
+    <img src="screenshorts/Screenshot_8.png" alt="Screenshot_8" width="250">
+    <img src="screenshorts/Screenshot_9.png" alt="Screenshot_9" width="250">
+    <img src="screenshorts/Screenshot_10.png" alt="Screenshot_10" width="250">
+    <img src="screenshorts/Screenshot_11.png" alt="Screenshot_11" width="250">
+    <img src="screenshorts/Screenshot_12.png" alt="Screenshot_12" width="250">
+    <img src="screenshorts/Screenshot_13.png" alt="Screenshot_13" width="250">
   </div>
 
 </details>

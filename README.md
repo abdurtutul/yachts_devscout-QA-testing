@@ -82,7 +82,7 @@ My testing covered:
 
 ## 🧑‍💻 QA Engineer
 
-**Name:** MST Khushi Akter  
+**Name:** Md Abdur Rahaman Tutul 
 **Role:** QA Engineer – Functional, UI/UX, and Usability Testing  
 **Tools & Platforms:** Browser DevTools, Google Sheets, Figma, Stripe Sandbox, Manual Testing Techniques.
 
